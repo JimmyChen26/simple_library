@@ -21,7 +21,8 @@
 
 請將大圖示模式截圖放在 `screenshots/large-icon.png`
 
-![大圖示檢視](screenshots/large-icon.png)
+<img width="778" height="442" alt="螢幕擷取畫面 2026-05-19 101741" src="https://github.com/user-attachments/assets/8746aac1-d1e4-48e4-a38d-dc785b259640" />
+
 
 ---
 
@@ -29,7 +30,8 @@
 
 請將詳細資料模式截圖放在 `screenshots/details-view.png`
 
-![詳細資料檢視](screenshots/details-view.png)
+<img width="776" height="397" alt="螢幕擷取畫面 2026-05-19 102003" src="https://github.com/user-attachments/assets/1292a39e-431d-4704-a575-b22d78824fc9" />
+
 
 ---
 
@@ -37,7 +39,8 @@
 
 請將借書確認或借書清單畫面截圖放在 `screenshots/borrow-list.png`
 
-![借書功能畫面](screenshots/borrow-list.png)
+<img width="410" height="280" alt="螢幕擷取畫面 2026-05-19 102034" src="https://github.com/user-attachments/assets/d3138e5c-8691-4c9b-a20e-9ddb692e4f56" />
+
 
 ---
 
